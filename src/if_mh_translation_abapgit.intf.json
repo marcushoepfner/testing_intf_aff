@@ -1,0 +1,27 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "intf translation",
+    "originalLanguage": "en"
+  },
+  "descriptions": {
+    "types": [
+      {
+        "name": "TY_TYPE1",
+        "description": "Type 1"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "A1",
+        "description": "Test attribute 1"
+      }
+    ],
+    "methods": [
+      {
+        "name": "M1",
+        "description": "Test method m1"
+      }
+    ]
+  }
+}
